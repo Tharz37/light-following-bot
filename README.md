@@ -2,6 +2,10 @@
 
 A simple Arduino-based **Light Follower Robot** that follows the brightest light source using **LDR sensors, an L298N motor driver, and BO motors**.
 
+![WhatsApp Image 2025-03-21 at 17 04 02(1)](https://github.com/user-attachments/assets/3591cf68-46de-4a12-bb76-54aa756bcaa6)
+
+![WhatsApp Image 2025-03-21 at 17 04 02](https://github.com/user-attachments/assets/24604ac4-0a81-485c-b2c5-965c0717d282)
+
 ## Components Required
 - **Arduino Uno**
 - **L298N Motor Driver**
