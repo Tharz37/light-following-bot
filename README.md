@@ -51,6 +51,6 @@ Check out the source code on GitHub: [Your Repository Link]
 This project is open-source under the **MIT License**. Feel free to modify and improve it! 🚀
 
 ## Teammates
-Tharun Oommen Jacob
-Shahazad Abdulla 
-Sidharth Sajith
+- Tharun Oommen Jacob
+- Shahazad Abdulla 
+- Sidharth Sajith
